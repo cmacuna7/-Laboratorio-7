@@ -44,6 +44,20 @@ Resistencias, bobinas y capacitores.
 
 **3. PROCEDIMIENTO**
 
+Capacitores
+
+<img src=Img/1.png>
+
+<img src=Img/2.png>
+
+<img src=Img/3.png>
+
+<img src=Img/4.png>
+
+<img src=Img/5.png>
+
+<img src=Img/6.png>
+
 Inductores
 
 0Hz
@@ -97,6 +111,8 @@ Inductores
 **4. ANALISIS DE RESULTADOS**
 
 Inductores
+
+<img src=Img/tb.png>
 
 <img src=Img/TABLA3.PNG>
 
