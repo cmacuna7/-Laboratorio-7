@@ -44,11 +44,61 @@ Resistencias, bobinas y capacitores.
 
 **3. PROCEDIMIENTO**
 
+Inductores
+
 0Hz
 
 <img src=Img/LAB3_1.PNG>
 
+<img src=Img/LAB3_2.PNG>
+
+<img src=Img/LAB3_3.PNG>
+
+10Hz
+
+<img src=Img/LAB3_4.PNG>
+
+<img src=Img/LAB3_5.PNG>
+
+<img src=Img/LAB3_6.PNG>
+
+50Hz
+
+<img src=Img/LAB3_7.PNG>
+
+<img src=Img/LAB3_8.PNG>
+
+<img src=Img/LAB3_9.PNG>
+
+100Hz
+
+<img src=Img/LAB3_10.PNG>
+
+<img src=Img/LAB3_11.PNG>
+
+<img src=Img/LAB3_12.PNG>
+
+500Hz
+
+<img src=Img/LAB3_13.PNG>
+
+<img src=Img/LAB3_14.PNG>
+
+<img src=Img/LAB3_15.PNG>
+
+1000Hz
+
+<img src=Img/LAB3_16.PNG>
+
+<img src=Img/LAB3_17.PNG>
+
+<img src=Img/LAB3_18.PNG>
+
 **4. ANALISIS DE RESULTADOS**
+
+Inductores
+
+<img src=Img/TABLA3.PNG>
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
