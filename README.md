@@ -106,11 +106,19 @@ Inductores
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+Mantienen su  corriente y voltaje en cero porque no llegan a cargarse o energizarse. 
+
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+El voltaje aunmenta de acuerdo a la frecuencia y su corriente va disminuyendo.
 
 3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+Los valores de la coriente y voltaje van a variar en cada bobina o capacitor segun su forma de conexion porque tomemos en cuenta que los capacitores en serie se dividen y paralelo se suman encambio las bobinas (inductores)  en serie se suman y en paralelo se dividen.
+
 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna
 
 **4. VIDEO**
 
