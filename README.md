@@ -138,6 +138,8 @@ El valor eficaz de una corriente alterna, es el valor que tendría una corriente
 
 **4. VIDEO**
 
+https://youtu.be/Td5otnodVoU
+
 **5. CONCLUCIONES**
 
 •	Los capacitores son un componente esencial en el diseño de la electrónica. A lo largo de los años se ha desarrollado una amplia gama de tipos de dispositivos con diversas características que hacen que algunas tecnologías de capacitores sean particularmente adecuadas para aplicaciones específicas. Para los diseñadores, adquirir un buen conocimiento práctico de los diversos tipos, configuraciones y especificaciones es un esfuerzo que vale la pena para asegurar la elección óptima para una aplicación determinada.
