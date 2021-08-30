@@ -44,6 +44,10 @@ Resistencias, bobinas y capacitores.
 
 **3. PROCEDIMIENTO**
 
+0Hz
+
+<img src=Img/LAB3_1.PNG>
+
 **4. ANALISIS DE RESULTADOS**
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
