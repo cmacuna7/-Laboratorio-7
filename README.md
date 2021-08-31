@@ -6,13 +6,15 @@ Integrantes: Acuña Marcelo, Robalino Johanna, Villacis Isaac
 
 **1. OBJETIVO DE LA PRÁCTICA**
 
-Objetivo General
+* Objetivo General
 
 Analizar y comprobar el comportamiento del capacitor y el inductor en coriente alterna y 
-corriente directa mediante la   resolución del ejerciciopropuesto en la guía de práctica
-para identificar el uso correcto con su respectiva simulación en un software de diseño electrónico.
+corriente directa, circuitos RC y RL  verificar la relación que tienen los voltajes medidos con el multímetro y el osciloscopio utilizando una fuente de voltaje alterno mediante la resolución del ejercicio propuesto en la guía de práctica para identificar el uso correcto con su respectiva simulación en un software de diseño electrónico.
+Escribir los datos adquiridos en tablas y posteriormente analizar los resultados de acuerdo a la teoría vista en clases.
 
-Objetivos Específicos 
+* Objetivos Específicos 
+
+Analizar circuitos mediante superposición
 
 Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 
@@ -142,11 +144,13 @@ https://youtu.be/Td5otnodVoU
 
 **5. CONCLUCIONES**
 
-•	Los capacitores son un componente esencial en el diseño de la electrónica. A lo largo de los años se ha desarrollado una amplia gama de tipos de dispositivos con diversas características que hacen que algunas tecnologías de capacitores sean particularmente adecuadas para aplicaciones específicas. Para los diseñadores, adquirir un buen conocimiento práctico de los diversos tipos, configuraciones y especificaciones es un esfuerzo que vale la pena para asegurar la elección óptima para una aplicación determinada.
+* AL observar los valores de la tablas se puede determinar que los valores pico, voltaje rms y la corriente son 0 cuando la frecuencia de la fuente de voltaje tiene un valor de 0, esto se debe al comportamiento de reactancias y capacitancia en corriente directa
 
-•	El módulo implementado en el simulador Multisim, se pueda simular el comportamiento de las ondas de voltajes o ya sea de señales en las diferentes configuraciones de circuitos que se analiza en dicho caso.
+* El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio.
 
-•	Se concluyo que a medida que la señal de frecuencia va en aumento o en deceso, los valores de la constante de tiempo y del voltaje máximo varían y todo esto depende de la configuración del circuito, ya que la impedancia del capacitor o inductor está en función de la frecuencia, El tiempo es una constante indicando el tiempo en que se carga totalmente el capacitor.
+* Mientras mayor sea la frecuencia la impedancia capacitiva será menor.Mientras mayor sea la frecuencia la impedancia inductiva será mayor.
+
+*	Se concluyo que a medida que la señal de frecuencia va en aumento o en deceso, los valores de la constante de tiempo y del voltaje máximo varían y todo esto depende de la configuración del circuito, ya que la impedancia del capacitor o inductor está en función de la frecuencia, El tiempo es una constante indicando el tiempo en que se carga totalmente el capacitor.
 
 **6. BIBLIOGRAFÍA**
 
